@@ -1,5 +1,5 @@
 {
-    "name": "flord22/laravel-country-flags",
+    "name": "stidges/laravel-country-flags",
     "description": "A Laravel 5.5 wrapper for the stidges/country-flags package",
     "keywords": [
         "laravel",
@@ -10,7 +10,7 @@
         "emoji",
         "unicode"
     ],
-    "homepage": "https://github.com/flord22/laravel-country-flags",
+    "homepage": "https://github.com/stidges/laravel-country-flags",
     "license": "MIT",
     "authors": [
         {
